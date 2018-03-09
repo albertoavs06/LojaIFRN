@@ -29,7 +29,7 @@ public class Produto {
     }
 
     public void setId(int id) {
-        this.id = id;
+        this.id = id;/* testes 2*/
     }
 
     public String getNome() {
