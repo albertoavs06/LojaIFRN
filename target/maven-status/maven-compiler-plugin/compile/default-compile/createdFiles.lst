@@ -1,0 +1,8 @@
+br\edu\ifrn\loja\model\Produto.class
+br\edu\ifrn\loja\config\SpringServlet.class
+br\edu\ifrn\loja\controller\HomeController.class
+br\edu\ifrn\loja\config\SpringRoot.class
+br\edu\ifrn\loja\config\SpringConfigJPA.class
+br\edu\ifrn\loja\config\SpringConfigMVC.class
+br\edu\ifrn\loja\controller\ProdutoController.class
+br\edu\ifrn\loja\dao\ProdutoDAO.class
